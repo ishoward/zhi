@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "update": {
+          "hotversion":"4.4",
+	  "version":"4.4",
+	  "injection":"\u003cp style=\"text-align:right;width:100%;margin:0;\"\u003e\u003ca \u003e网页题库包含1000万试题，如需更全题库，推荐使用公众号搜题，3000万收录，支持在线考试，支持冷门科目，支持图片搜题\u003c/a\u003e|\u003ca href=\"https://assets.dockeer.com/souti/qun.png\" target='_blank'\u003e加入QQ群\u003c/a\u003e\u003c/p\u003e\n\u003cp style=\"text-align:right;width:100%;margin:0;\"\u003e[\u003ca href=\"https://assets.dockeer.com/souti/wxqr.jpg\" target='_blank' style=\"color:red;font-weight: bold;\"\u003e点击关注公众号\u003c/a\u003e]\u003c/p\u003e","enforce":false,"url":"https://github.com/ishoward/zhi"
+  }
+}
